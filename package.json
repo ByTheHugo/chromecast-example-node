@@ -1,0 +1,26 @@
+{
+  "name": "chromecast-example-node",
+  "version": "1.0.0",
+  "description": "Un exemple d'utilisation d'une Google Home Mini en tant qu'enceinte connecté via le protocole Google Cast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByTheHugo/chromecast-example-node.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "chromecast",
+    "casadebidouille"
+  ],
+  "author": "Hugo CHUPIN <hugo@chupin.xyz> (https://hugo.chupin.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ByTheHugo/chromecast-example-node/issues"
+  },
+  "homepage": "https://github.com/ByTheHugo/chromecast-example-node#readme",
+  "private": true
+}
